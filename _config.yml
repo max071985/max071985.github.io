@@ -18,14 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: max071985
+title: Maxim Lysenko
 email: maxlys2001@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A 19 year old senior developer from Israel.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: TheSonicIQ
+discord_username: DekZ#1303
 github_username:  max071985
+
+header_pages:
+  - about.markdown
 
 # Build settings
 theme: minima

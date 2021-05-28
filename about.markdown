@@ -2,17 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+show_on_menu: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is **Maxim** Lysenko.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm just a 19 y/o guy, who has a passion towards videogames, programming and some other stuff like sports and cars..\
+I am only in the beginning of my road, always looking to improve and try new stuff out.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm always down to contribute to open source projects.\
+Feel free to contact me anywhere!

@@ -7,4 +7,4 @@ title: Python Projects
 
 [**BDO loot-to-sheet**]({% link projects/bdo-loot-to-sheet.md %}): something about this project 
 
-**Desktop controller over HTTP**: something about this project
+[**Desktop controller over HTTP**]({% link projects/http-pc-remote.md %}): something about this project
